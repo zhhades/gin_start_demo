@@ -1,0 +1,65 @@
+2021-09-16T22:49:27.934+0800	info	cmd/main.go:22	service success started on port[21103]
+2021-09-16T22:56:41.936+0800	info	cmd/main.go:34	Shutdown Server ...
+2021-09-16T22:56:41.937+0800	info	cmd/main.go:41	Server exiting
+2021-09-16T22:56:52.599+0800	info	cmd/main.go:34	Shutdown Server ...
+2021-09-16T22:56:52.601+0800	info	cmd/main.go:41	Server exiting
+2021-09-16T22:59:55.695+0800	info	initialize/coreman.go:28	Started server success on port[21103]
+2021-09-16T23:00:24.928+0800	info	initialize/coreman.go:32	Shutdown Server ...
+2021-09-16T23:00:24.930+0800	info	initialize/coreman.go:39	Server exiting
+2021-09-16T23:00:34.829+0800	info	initialize/run.go:28	Started server success on port[21103]
+2021-09-16T23:11:56.450+0800	info	initialize/run.go:32	Shutdown Server ...
+2021-09-16T23:11:56.452+0800	info	initialize/run.go:39	Server exiting
+2021-09-16T23:11:58.062+0800	info	initialize/run.go:28	Started server success on port[21103]
+2021-09-16T23:12:30.687+0800	info	logger/logger.go:65	/v1/user/list{status 11 200  <nil>} {method 15 0 GET <nil>} {path 15 0 /v1/user/list <nil>} {query 15 0  <nil>} {ip 15 0 ::1 <nil>} {user-agent 15 0 PostmanRuntime/7.28.4 <nil>} {errors 15 0  <nil>} {cost 8 365406  <nil>}
+2021-09-16T23:13:42.858+0800	info	initialize/run.go:32	Shutdown Server ...
+2021-09-16T23:13:42.859+0800	info	initialize/run.go:39	Server exiting
+2021-09-16T23:13:44.431+0800	INFO	initialize/run.go:28	Started server success on port[21103]
+2021-09-16T23:13:47.694+0800	INFO	logger/logger.go:65	/v1/user/list{status 11 200  <nil>} {method 15 0 GET <nil>} {path 15 0 /v1/user/list <nil>} {query 15 0  <nil>} {ip 15 0 ::1 <nil>} {user-agent 15 0 PostmanRuntime/7.28.4 <nil>} {errors 15 0  <nil>} {cost 8 210053  <nil>}
+2021-09-16T23:15:55.421+0800	INFO	initialize/run.go:32	Shutdown Server ...
+2021-09-16T23:15:55.422+0800	INFO	initialize/run.go:39	Server exiting
+{"level":"INFO","time":"2021-09-16T23:15:57.034+0800","caller":"initialize/run.go:28","msg":"Started server success on port[21103]"}
+{"level":"INFO","time":"2021-09-16T23:16:03.427+0800","caller":"logger/logger.go:73","msg":"/v1/user/list{status 11 200  <nil>} {method 15 0 GET <nil>} {path 15 0 /v1/user/list <nil>} {query 15 0  <nil>} {ip 15 0 ::1 <nil>} {user-agent 15 0 PostmanRuntime/7.28.4 <nil>} {errors 15 0  <nil>} {cost 8 238630  <nil>}"}
+{"level":"INFO","time":"2021-09-16T23:17:01.932+0800","caller":"initialize/run.go:32","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-09-16T23:17:01.934+0800","caller":"initialize/run.go:39","msg":"Server exiting"}
+{"level":"INFO","time":"2021-09-16T23:18:50.814+0800","caller":"initialize/run.go:28","msg":"Started server success on port21103"}
+{"level":"INFO","time":"2021-09-16T23:19:04.698+0800","caller":"initialize/run.go:32","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-09-16T23:19:04.699+0800","caller":"initialize/run.go:39","msg":"Server exiting"}
+{"level":"INFO","time":"2021-09-16T23:19:06.218+0800","caller":"initialize/run.go:28","msg":"Started server success on port[21103]"}
+{"level":"INFO","time":"2021-09-16T23:19:10.576+0800","caller":"logger/logger.go:73","msg":"/v1/user/list","status":200,"method":"GET","path":"/v1/user/list","query":"","ip":"::1","user-agent":"PostmanRuntime/7.28.4","errors":"","cost":0.000171192}
+{"level":"INFO","time":"2021-09-16T23:19:39.077+0800","caller":"logger/logger.go:73","msg":"/v1/user/list","status":200,"method":"GET","path":"/v1/user/list","query":"","ip":"::1","user-agent":"PostmanRuntime/7.28.4","errors":"","cost":0.000020408}
+{"level":"INFO","time":"2021-09-16T23:19:39.241+0800","caller":"logger/logger.go:73","msg":"/v1/user/list","status":200,"method":"GET","path":"/v1/user/list","query":"","ip":"::1","user-agent":"PostmanRuntime/7.28.4","errors":"","cost":0.000027653}
+{"level":"INFO","time":"2021-09-16T23:19:41.463+0800","caller":"logger/logger.go:73","msg":"/v1/user/list","status":200,"method":"GET","path":"/v1/user/list","query":"","ip":"::1","user-agent":"PostmanRuntime/7.28.4","errors":"","cost":0.000036063}
+{"level":"INFO","time":"2021-09-16T23:19:41.895+0800","caller":"logger/logger.go:73","msg":"/v1/user/list","status":200,"method":"GET","path":"/v1/user/list","query":"","ip":"::1","user-agent":"PostmanRuntime/7.28.4","errors":"","cost":0.000034029}
+{"level":"INFO","time":"2021-09-16T23:19:44.480+0800","caller":"logger/logger.go:73","msg":"/v1/user/list","status":200,"method":"GET","path":"/v1/user/list","query":"","ip":"::1","user-agent":"PostmanRuntime/7.28.4","errors":"","cost":0.000056783}
+{"level":"INFO","time":"2021-09-16T23:19:44.821+0800","caller":"logger/logger.go:73","msg":"/v1/user/list","status":200,"method":"GET","path":"/v1/user/list","query":"","ip":"::1","user-agent":"PostmanRuntime/7.28.4","errors":"","cost":0.000027269}
+{"level":"INFO","time":"2021-09-16T23:19:45.666+0800","caller":"logger/logger.go:73","msg":"/v1/user/list","status":200,"method":"GET","path":"/v1/user/list","query":"","ip":"::1","user-agent":"PostmanRuntime/7.28.4","errors":"","cost":0.000037039}
+{"level":"INFO","time":"2021-09-16T23:23:23.189+0800","caller":"initialize/run.go:32","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-09-16T23:23:23.191+0800","caller":"initialize/run.go:39","msg":"Server exiting"}
+{"level":"INFO","time":"2021-09-16T23:23:24.713+0800","caller":"initialize/run.go:28","msg":"Started server success on port[21103]"}
+{"level":"INFO","time":"2021-09-16T23:23:40.699+0800","caller":"logger/logger.go:73","msg":"/v1/user/list%!(EXTRA zapcore.Field={status 11 200  <nil>}, zapcore.Field={method 15 0 GET <nil>}, zapcore.Field={path 15 0 /v1/user/list <nil>}, zapcore.Field={query 15 0  <nil>}, zapcore.Field={ip 15 0 ::1 <nil>}, zapcore.Field={user-agent 15 0 PostmanRuntime/7.28.4 <nil>}, zapcore.Field={errors 15 0  <nil>}, zapcore.Field={cost 11 0  <nil>})"}
+{"level":"INFO","time":"2021-09-16T23:27:35.728+0800","caller":"initialize/run.go:32","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-09-16T23:27:35.730+0800","caller":"initialize/run.go:39","msg":"Server exiting"}
+{"level":"INFO","time":"2021-09-16T23:27:37.262+0800","caller":"initialize/run.go:28","msg":"Started server success on port[21103]"}
+{"level":"INFO","time":"2021-09-16T23:27:56.199+0800","caller":"initialize/run.go:32","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-09-16T23:27:56.200+0800","caller":"initialize/run.go:39","msg":"Server exiting"}
+2021-09-16T23:27:57.543+0800	INFO	initialize/run.go:28	Started server success on port[21103]
+2021-09-16T23:28:03.516+0800	INFO	logger/logger.go:73	path=[/v1/user/list] status=[200] method=[GET]] query=[] ip=[::1]] errors=[] cost=[0]
+2021-09-16T23:28:30.012+0800	INFO	initialize/run.go:32	Shutdown Server ...
+2021-09-16T23:28:30.013+0800	INFO	initialize/run.go:39	Server exiting
+2021-09-16T23:28:31.514+0800	INFO	initialize/run.go:28	Started server success on port[21103]
+2021-09-16T23:28:34.811+0800	INFO	logger/logger.go:73	path=[/v1/user/list] status=[200] method=[GET]] query=[] ip=[::1]] errors=[] cost=[1004]
+2021-09-16T23:29:56.443+0800	INFO	initialize/run.go:32	Shutdown Server ...
+2021-09-16T23:29:56.445+0800	INFO	initialize/run.go:39	Server exiting
+2021-09-16T23:29:57.921+0800	INFO	initialize/run.go:28	Started server success on port[21103]
+2021-09-16T23:29:58.679+0800	INFO	initialize/run.go:32	Shutdown Server ...
+2021-09-16T23:29:58.680+0800	INFO	initialize/run.go:39	Server exiting
+2021-09-16T23:29:59.946+0800	INFO	initialize/run.go:28	Started server success on port[21103]
+2021-09-16T23:30:03.437+0800	INFO	logger/logger.go:73	path=/v1/user/list status=200 method=GET query= ip=::1 errors= cost=1004ms
+2021-09-16T23:30:26.305+0800	INFO	initialize/run.go:32	Shutdown Server ...
+2021-09-16T23:30:26.307+0800	INFO	initialize/run.go:39	Server exiting
+2021-09-16T23:30:27.709+0800	INFO	initialize/run.go:28	Started server success on port[21103]
+2021-09-16T23:30:33.117+0800	INFO	logger/logger.go:72	path=/v1/user/list status=200 method=GET ip=::1 errors= cost=1003ms
+2021-09-16T23:30:57.964+0800	INFO	initialize/run.go:32	Shutdown Server ...
+2021-09-16T23:30:57.965+0800	INFO	initialize/run.go:39	Server exiting
+2021-09-16T23:30:59.370+0800	INFO	initialize/run.go:28	Started server success on port[21103]
+2021-09-16T23:31:02.900+0800	INFO	logger/logger.go:72	path=/v1/user/list status=200 method=GET ip=::1 cost=1004ms
